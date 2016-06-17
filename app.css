@@ -1,0 +1,20 @@
+/* line 1, /Users/lucasoliveira/projects/games/pong-js/app/game.scss */
+* {
+  margin: 0;
+  padding: 0; }
+
+/* line 3, /Users/lucasoliveira/projects/games/pong-js/app/game.scss */
+.pong {
+  width: 800px;
+  margin: 10px auto; }
+  /* line 7, /Users/lucasoliveira/projects/games/pong-js/app/game.scss */
+  .pong .container {
+    background-color: #E1E1E1; }
+
+/* line 12, /Users/lucasoliveira/projects/games/pong-js/app/game.scss */
+small {
+  font-family: Helvetica, Verdana;
+  color: #333333; }
+
+
+/*# sourceMappingURL=app.css.map*/
