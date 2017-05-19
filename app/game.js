@@ -58,8 +58,8 @@ function init() {
     width: 30,
     height: 90,
     speed: 15
-  });
 
+  });
   enemy = new Player({
     x: canvas.width - 30,
     y: (canvas.height - 90) / 2,

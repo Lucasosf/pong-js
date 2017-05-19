@@ -1,4 +1,4 @@
-let Player = class Player {
+export default class Player {
   constructor(properties) {
     this.x = properties.x;
     this.y = properties.y;
@@ -32,5 +32,3 @@ let Player = class Player {
     }
   }
 };
-
-export default Player;

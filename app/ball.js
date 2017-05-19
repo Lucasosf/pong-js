@@ -1,4 +1,4 @@
-let Ball = class Ball {
+export default class Ball {
   constructor(properties) {
     this.radius = properties.radius;
     this.x = properties.x;
@@ -99,5 +99,3 @@ let Ball = class Ball {
     return 0 - Math.floor(Math.random() * 10);
   }
 };
-
-export default Ball;
